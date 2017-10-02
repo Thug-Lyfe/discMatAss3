@@ -118,5 +118,20 @@ module.exports = {
         else{
             callback(-2);
         }
+    },
+    func: function(otherSet,callback){
+        /*//var exp = new algebra.parse("x^2+20<100");
+        //var eq = algebra.parse("x^2 + 4 * x + 4 < 0");
+        //console.log(eq.toString());
+        var mySolver = new Solver({
+            y: 'x^2+20',
+            x: 'x'
+          })
+          
+          var ex = mySolver.solve({
+            y: 84
+          })
+
+          callback(ex);*/
     }
 };

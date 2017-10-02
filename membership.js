@@ -40,5 +40,5 @@ myset.subset([1,2,3,5], function(ans){
     console.log(ans);
 });
 myset.func([0,1,2,3], function(ans){
-    console.log(ans);
+    //console.log(ans);
 });
