@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "algebra.js": "^0.2.6",
-    "expr-eval": "^1.2.0"
+    "expr-eval": "^1.2.0",
+    "js-solver": "0.0.2"
   }
 }

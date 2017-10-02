@@ -36,6 +36,9 @@ myset.subset([1,2,3,4,5], function(ans){
 myset.subset([1,2,3,4], function(ans){
     console.log(ans);
 });
-myset.subset([0,1,2,3], function(ans){
+myset.subset([1,2,3,5], function(ans){
+    console.log(ans);
+});
+myset.func([0,1,2,3], function(ans){
     console.log(ans);
 });

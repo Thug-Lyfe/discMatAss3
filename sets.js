@@ -1,3 +1,5 @@
+var algebra = require('algebra.js');
+var Solver = require('js-solver')
 var exports = module.exports = {};
 
 this.set = [];
@@ -117,7 +119,4 @@ module.exports = {
             callback(-2);
         }
     }
-
-
-
 };
